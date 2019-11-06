@@ -9,4 +9,6 @@ groceries = {
 }
 
 puts get_the_min(groceries)
+  groceries.min 
+  result.to eq("broccoli")
   
